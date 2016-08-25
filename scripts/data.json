@@ -1,0 +1,42 @@
+[
+    {
+        "number": 1,
+        "name": "Kikko",
+        "location": "Detroit, MI",
+        "faveColor": "Black",
+        "attributes": {
+            "weight": 135,
+            "height": 5.5
+        }
+    },
+    {
+        "number": 32,
+        "name": "Shaq",
+        "location": "Los Angeles, CA",
+        "faveColor": "Yellow",
+        "attributes": {
+            "weight": 344,
+            "height": 7.1 
+        }
+    },
+    {
+        "number": 34,
+        "name": "Barkley",
+        "location": "Phoenix, AZ",
+        "faveColor": "Purple",
+        "attributes": {
+            "weight": 265,
+            "height": 6.6
+        }
+    },
+    {
+        "number": 8,
+        "name": "Kobe",
+        "location": "Los Angeles, CA",
+        "faveColor": "Green",
+        "attributes": {
+            "weight": 205,
+            "height": 6.5
+        }
+    }
+]
