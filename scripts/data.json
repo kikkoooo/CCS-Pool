@@ -3,7 +3,7 @@
         "number": 1,
         "name": "Kikko",
         "location": "Detroit, MI",
-        "faveColor": "Black",
+        "faveColor": "red",
         "attributes": {
             "weight": 135,
             "height": 5.5
@@ -13,7 +13,7 @@
         "number": 32,
         "name": "Shaq",
         "location": "Los Angeles, CA",
-        "faveColor": "Yellow",
+        "faveColor": "blue",
         "attributes": {
             "weight": 344,
             "height": 7.1 
@@ -23,7 +23,7 @@
         "number": 34,
         "name": "Barkley",
         "location": "Phoenix, AZ",
-        "faveColor": "Purple",
+        "faveColor": "red",
         "attributes": {
             "weight": 265,
             "height": 6.6
@@ -33,7 +33,47 @@
         "number": 8,
         "name": "Kobe",
         "location": "Los Angeles, CA",
-        "faveColor": "Green",
+        "faveColor": "blue",
+        "attributes": {
+            "weight": 205,
+            "height": 6.5
+        }
+    },
+    {
+        "number": 1,
+        "name": "Jo",
+        "location": "Detroit, MI",
+        "faveColor": "orange",
+        "attributes": {
+            "weight": 135,
+            "height": 5.5
+        }
+    },
+    {
+        "number": 32,
+        "name": "Bob",
+        "location": "Los Angeles, CA",
+        "faveColor": "orange",
+        "attributes": {
+            "weight": 344,
+            "height": 7.1 
+        }
+    },
+    {
+        "number": 34,
+        "name": "Poe",
+        "location": "Phoenix, AZ",
+        "faveColor": "orange",
+        "attributes": {
+            "weight": 265,
+            "height": 6.6
+        }
+    },
+    {
+        "number": 8,
+        "name": "Kobe",
+        "location": "Los Angeles, CA",
+        "faveColor": "blue",
         "attributes": {
             "weight": 205,
             "height": 6.5
