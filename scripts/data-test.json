@@ -7,12 +7,12 @@
     {
         "number": 32,
         "name": "Shaq",
-        "faveColor": "blue, red",
+        "faveColor": "blue, red"
     },
     {
         "number": 34,
         "name": "Barkley",
-        "faveColor": "red, orange, blue",
+        "faveColor": "red, orange, blue"
     }
 ]
 
